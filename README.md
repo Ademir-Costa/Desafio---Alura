@@ -10,7 +10,7 @@
 - [Descrição](#-descrição-do-projeto)
 - [Status](#-status-do-projeto)
 - [Acesso](#-acesso-ao-projeto)
-- [Tecnologias](#-tecnologias-utilizadas)
+- [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
 - [Desenvolvedor](#-pessoa-desenvolvedora)
 - [Licença](#-licença)
 
@@ -30,11 +30,15 @@ Aplicação web perfeita para organizar sorteios de Amigo Secreto com:
 ✅ **Concluído e otimizado** - Pronto para uso em eventos!
 
 ---
-## Tecnologia Utilizada
-- JavaScript
+## Tecnologias Utilizadas
+
+- HTML5	Estruturação da página
+- CSS3	Estilização e design responsivo
+- JavaScript	Lógica de sorteio e interatividade
 
 ## Desenvolvedor
-- Ademir Cardoso Costa
+<img src="https://github.com/Ademir-Costa.png" width=115>
+<sub>Ademir Costa</sub>
 
 ## 🎮 Funcionalidades
 
@@ -44,6 +48,10 @@ Aplicação web perfeita para organizar sorteios de Amigo Secreto com:
 - ⏳ Resultado visível por 5 segundos
 - 📱 Compatível com dispositivos móveis
 - 🚫 Bloqueio de sorteio sem participantes
+
+📜 ## Licença
+Este projeto está sob licença MIT - consulte o arquivo LICENSE para detalhes.
+https://github.com/Ademir-Costa/Desafio---Alura/blob/main/LICENSE
 
 
 ## 🔍 Acesso ao Projeto
