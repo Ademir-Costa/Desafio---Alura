@@ -11,7 +11,7 @@
 - [Status](#-status-do-projeto)
 - [Acesso](#-acesso-ao-projeto)
 - [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
-- [Desenvolvedor](#-pessoa-desenvolvedora)
+- [Desenvolvedor](#-Desenvolvedora)
 - [Licença](#-licença)
 
 ---
