@@ -9,7 +9,6 @@
 ## 📑 Índice
 - [Descrição](#-descrição-do-projeto)
 - [Status](#-status-do-projeto)
-- [Funcionalidades](#-funcionalidades-e-demonstração-da-aplicação)
 - [Acesso](#-acesso-ao-projeto)
 - [Tecnologias](#-tecnologias-utilizadas)
 - [Desenvolvedor](#-pessoa-desenvolvedora)
@@ -31,6 +30,11 @@ Aplicação web perfeita para organizar sorteios de Amigo Secreto com:
 ✅ **Concluído e otimizado** - Pronto para uso em eventos!
 
 ---
+## Tecnologia Utilizada
+- JavaScript
+
+## Desenvolvedor
+- Ademir Cardoso Costa
 
 ## 🎮 Funcionalidades
 
